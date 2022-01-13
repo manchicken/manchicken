@@ -2,8 +2,8 @@
 
 Pronouns: he/him
 
-<a href="https://app.daily.dev/manchicken"><img src="https://api.daily.dev/devcards/15a1547140a44d35ab36ad0f4650b961.png?r=5aw" width="400" alt="Michael D. Stemle, Jr.'s Dev Card"/></a>
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/manchicken/langs?time_range=one_year&loc_metric=changed&compact=True&theme=synthwaves)](https://githubtrends.io)
+<a href="https://app.daily.dev/manchicken"><img src="https://api.daily.dev/devcards/15a1547140a44d35ab36ad0f4650b961.png?r=5aw" width="400" alt="Michael D. Stemle, Jr.'s Dev Card"/></a>
 
 <!--
 **manchicken/manchicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
