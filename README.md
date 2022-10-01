@@ -2,7 +2,7 @@
 
 Pronouns: he/him
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/manchicken/langs?time_range=one_year&loc_metric=changed&compact=True&theme=synthwaves)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/manchicken/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
 <!--
 **manchicken/manchicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
