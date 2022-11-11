@@ -21,3 +21,5 @@ Here are a few of my favorite pieces:
 - [Warning: Elaborate Scams Abound!](https://dev.to/manchicken/warning-elaborate-scams-abound-4ngn)
 - [I love function signatures in Perl, and you should too.](https://dev.to/manchicken/i-love-function-signatures-in-perl-and-you-should-too-1can)
 - [Simple Code Tasks Should Be Simple](https://dev.to/manchicken/simple-code-tasks-should-be-simple-11c2)
+
+Also, don't forget to check out my [GitHub Resume!](https://resume.github.io/?manchicken)
