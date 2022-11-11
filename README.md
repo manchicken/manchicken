@@ -1,25 +1,14 @@
 ### Hi there 👋
 
-Hi! I'm Mike Stemle (he/him), and I enjoy reading and writing code.
+Hi! I'm Mike Stemle (he/him), and I enjoy reading and writing code. I'm a software professional with more than 25 years of professional programming experience. I'm an open source expert with a love for community, technology, and what we can do when we work together.
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/manchicken/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/manchicken/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
-See?
+See? While I have done a lot in my years, I'm not done yet!
 
-<!--
-**manchicken/manchicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with ideas on where I can go from here in my open source journey. Advice, writing, code, all are things I'd love to contribute more of.
+- 👯 I’m looking to collaborate on my [promise-regulation](https://github.com/manchicken/promise-regulation) module. I think it's an interesting little way of thinking about how we would like to better control concurrency and asynchronicity in JavaScript.
+- 🌱 I’m currently learning Rust, and all of the fun things that can be done with Rust. There's an awful lot of room to grow in this space, and it's a really interesting language.
 
 ### Writings
 
