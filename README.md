@@ -23,3 +23,5 @@ Here are a few of my favorite pieces:
 - [Simple Code Tasks Should Be Simple](https://dev.to/manchicken/simple-code-tasks-should-be-simple-11c2)
 
 Also, don't forget to check out my [GitHub Resume!](https://resume.github.io/?manchicken)
+
+Also, find me on <a rel="me" href="https://techhub.social/@manchicken">Mastodon</a>.
