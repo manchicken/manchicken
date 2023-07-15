@@ -16,6 +16,7 @@ Check out some of my writings! I keep them all here on DEV.to: [https://dev.to/m
 
 Here are a few of my favorite pieces:
 
+- [Guest post on Datadog blog: I use GitHub Ac­tions for Data­dog's Service Catalog, and you should, too](https://www.datadoghq.com/blog/github-actions-service-catalog/)
 - [Definition of Dependencies](https://dev.to/manchicken/definition-of-dependencies-5462)
 - [String Manipulation of URLs is an Anti-Pattern.](https://dev.to/manchicken/string-manipulation-of-urls-is-an-anti-pattern-53mg)
 - [Warning: Elaborate Scams Abound!](https://dev.to/manchicken/warning-elaborate-scams-abound-4ngn)
