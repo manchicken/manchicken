@@ -1,3 +1,5 @@
+[![An image of @manchicken's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manchicken)](https://holopin.io/@manchicken)
+
 ## Hi there 👋
 
 Hi! I'm Mike Stemle (he/him), and I enjoy reading and writing code. I'm a software professional with more than 25 years of professional programming experience. I'm an open source expert with a love for community, technology, and what we can do when we work together.
