@@ -6,12 +6,16 @@ Hi! I'm Mike Stemle (he/him), and I enjoy reading and writing code. I'm a softwa
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/manchicken/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
-See? While I have done a lot in my years, I'm not done yet!
+Here's what I'm working on right now:
 
-- 🤔 I’m looking for help with ideas on where I can go from here in my open source journey. Advice, writing, code, all are things I'd love to contribute more of.
-- 👯 I’m looking to collaborate on my [promise-regulation](https://github.com/manchicken/promise-regulation) module. I think it's an interesting little way of thinking about how we would like to better control concurrency and asynchronicity in JavaScript.
-- 🌱 I’m working on diving deeper Rust. There's an awful lot of room to grow in this space, and it's a really interesting language.
-- 🧬 I'm learning Helix. It's the first new editor I've learned in a _while_, so I'm excited to learn something new.
+- 🦀 I'm working on [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
+  - 🧮 I'm working on a [GitHub Project](https://github.com/users/manchicken/projects/4) to fix all of the HTTP 204 cases which lack tests or throw errors
+  - 📰 [You can read more about that project here](https://dev.to/manchicken/tackling-a-large-volume-of-simple-problems-in-an-open-source-project-5fn3) and [here](https://dev.to/manchicken/update-tackling-a-large-volume-of-simple-problems-in-an-open-source-project-306c)
+  - 🕸️ I'm also working on helping to add endpoints.
+- I'm also working on [making some tools to help my fellow GitHub Enterprise administrators](https://github.com/manchicken/gh-enterprise-tools/)
+- I'm also maintaining a small handful of custom GitHub Actions
+  - [Datadog Service Catalog Metadata Provider](https://github.com/arcxp/datadog-service-catalog-metadata-provider)
+  - [Arc XP Deployment](https://github.com/arcxp/datadog-service-catalog-metadata-provider)
 
 Also, don't forget to check out my [GitHub Resume!](https://resume.github.io/?manchicken)
 
