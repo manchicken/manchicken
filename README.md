@@ -8,6 +8,7 @@ Hi! I'm Mike Stemle (he/him), and I enjoy reading and writing code. I'm a softwa
 
 Here's what I'm working on right now:
 
+- 🐫 I'm working on [net-amqp-rabbitmq/net-amqp-rabbitmq](https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq), a Perl module supporting AMQP 0.9.1 with RabbitMQ.
 - 🦀 I'm working on [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
   - 🧮 I'm working on a [GitHub Project](https://github.com/users/manchicken/projects/4) to fix all of the HTTP 204 cases which lack tests or throw errors
   - 📰 [You can read more about that project here](https://dev.to/manchicken/tackling-a-large-volume-of-simple-problems-in-an-open-source-project-5fn3) and [here](https://dev.to/manchicken/update-tackling-a-large-volume-of-simple-problems-in-an-open-source-project-306c)
@@ -33,10 +34,6 @@ Here are a few of my favorite pieces:
 - [Warning: Elaborate Scams Abound!](https://dev.to/manchicken/warning-elaborate-scams-abound-4ngn)
 - [I love function signatures in Perl, and you should too.](https://dev.to/manchicken/i-love-function-signatures-in-perl-and-you-should-too-1can)
 - [Simple Code Tasks Should Be Simple](https://dev.to/manchicken/simple-code-tasks-should-be-simple-11c2)
-
-## Hacktoberfest 2023 Projects
-
-Here are a list of projects I'm involved with during Hacktoberfest:
 
 ### Stuff I'm working on
 
