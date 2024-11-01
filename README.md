@@ -16,11 +16,10 @@ Here's what I'm working on right now:
 - I'm also working on [making some tools to help my fellow GitHub Enterprise administrators](https://github.com/manchicken/gh-enterprise-tools/)
 - I'm also maintaining a small handful of custom GitHub Actions
   - [Datadog Service Catalog Metadata Provider](https://github.com/arcxp/datadog-service-catalog-metadata-provider)
-  - [Arc XP Deployment](https://github.com/arcxp/datadog-service-catalog-metadata-provider)
 
 Also, don't forget to check out my [GitHub Resume!](https://resume.github.io/?manchicken)
 
-Also, find me on <a rel="me" href="https://hachyderm.io/@manchicken">Mastodon</a>.
+Also, find me on <a rel="me" href="https://defcon.social/@manchicken">Mastodon</a>.
 
 ## Writings
 
@@ -39,6 +38,7 @@ Here are a few of my favorite pieces:
 
 - I'm working on the Datadog Service Catalog Metadata Provider (DDSCMP) which can be found here: https://github.com/arcxp/datadog-service-catalog-metadata-provider
 - I'm working on a project called "repository-wrapup" which is intended to help you find and address abandoned code repositories on GitHub.
+- I do a little bit of security research, too.
 
 ### Stuff I invite you to work on if you'd like
 
