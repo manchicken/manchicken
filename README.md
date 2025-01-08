@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Hi! I'm Mike Stemle (he/him), and I enjoy reading and writing code. I'm a software professional with more than 25 years of professional programming experience. I'm an open source expert with a love for community, technology, and what we can do when we work together.
+Hi! I'm Mike Stemle (he/him), and I enjoy reading and writing code. I'm a software professional with more nearly 27 years of professional programming experience. I'm an open source expert and hacker with a love for community, technology, and what we can do when we work together.
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/manchicken/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
@@ -18,8 +18,6 @@ Here's what I'm working on right now:
   - [Datadog Service Catalog Metadata Provider](https://github.com/arcxp/datadog-service-catalog-metadata-provider)
 
 Also, don't forget to check out my [GitHub Resume!](https://resume.github.io/?manchicken)
-
-Also, find me on <a rel="me" href="https://defcon.social/@manchicken">Mastodon</a>.
 
 ## Writings
 
