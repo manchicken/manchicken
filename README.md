@@ -11,7 +11,7 @@ Here's what I'm working on right now:
 - 🐫 I'm working on [net-amqp-rabbitmq/net-amqp-rabbitmq](https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq), a Perl module supporting AMQP 0.9.1 with RabbitMQ.
 - 🦀 I'm working on [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
   - 🧮 I'm working on a [GitHub Project](https://github.com/users/manchicken/projects/4) to fix all of the HTTP 204 cases which lack tests or throw errors
-  - 📰 [You can read more about that project here](https://dev.to/manchicken/tackling-a-large-volume-of-simple-problems-in-an-open-source-project-5fn3) and [here](https://dev.to/manchicken/update-tackling-a-large-volume-of-simple-problems-in-an-open-source-project-306c)
+  - 📰 [You can read more about that project here](https://manchicken.com/2024/01/13/tackling-a-large-volume-of-simple-problems-in-an-open-source-project/) and [here](https://manchicken.com/2024/01/20/update-tackling-a-large-volume-of-simple-problems-in-an-open-source-project/)
   - 🕸️ I'm also working on helping to add endpoints.
 - I'm also working on [making some tools to help my fellow GitHub Enterprise administrators](https://github.com/manchicken/gh-enterprise-tools/)
 - I'm also maintaining a small handful of custom GitHub Actions
@@ -21,16 +21,16 @@ Also, don't forget to check out my [GitHub Resume!](https://resume.github.io/?ma
 
 ## Writings
 
-Check out some of my writings! I keep them all here on DEV.to: [https://dev.to/manchicken](https://dev.to/manchicken).
+Check out some of my writings! I keep them all here on my nerdy blog: https://manchicken.com.
 
 Here are a few of my favorite pieces:
 
 - [Guest post on Datadog blog: I use GitHub Ac­tions for Data­dog's Service Catalog, and you should, too](https://www.datadoghq.com/blog/github-actions-service-catalog/)
-- [Definition of Dependencies](https://dev.to/manchicken/definition-of-dependencies-5462)
-- [String Manipulation of URLs is an Anti-Pattern.](https://dev.to/manchicken/string-manipulation-of-urls-is-an-anti-pattern-53mg)
-- [Warning: Elaborate Scams Abound!](https://dev.to/manchicken/warning-elaborate-scams-abound-4ngn)
-- [I love function signatures in Perl, and you should too.](https://dev.to/manchicken/i-love-function-signatures-in-perl-and-you-should-too-1can)
-- [Simple Code Tasks Should Be Simple](https://dev.to/manchicken/simple-code-tasks-should-be-simple-11c2)
+- [Definition of Dependencies](https://manchicken.com/2022/10/11/1378/)
+- [String Manipulation of URLs is an Anti-Pattern.](https://manchicken.com/2021/08/31/string-manipulation-of-urls-is-an-anti-pattern/)
+- [Warning: Elaborate Scams Abound!](https://manchicken.com/2021/04/13/warning-elaborate-scams-abound/)
+- [I love function signatures in Perl, and you should too.](https://manchicken.com/2020/10/12/i-love-function-signatures-in-perl-and-you-should-too/)
+- [Simple Code Tasks Should Be Simple](https://manchicken.com/2020/09/29/simple-code-tasks-should-be-simple/)
 
 ### Stuff I'm working on
 
