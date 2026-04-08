@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Hi! I'm Mike Stemle (he/him), and I enjoy reading and writing code. I'm a software professional with more nearly 27 years of professional programming experience. I'm an open source expert and hacker with a love for community, technology, and what we can do when we work together.
+Hi! I'm Mike Stemle (he/him), and I enjoy reading and writing code. I'm a security and software professional with more nearly 28 years of professional programming experience. I'm an open source expert and hacker with a love for community, technology, and what we can do when we work together.
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/manchicken/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
@@ -14,7 +14,7 @@ Here's what I'm working on right now:
   - 📰 [You can read more about that project here](https://manchicken.com/2024/01/13/tackling-a-large-volume-of-simple-problems-in-an-open-source-project/) and [here](https://manchicken.com/2024/01/20/update-tackling-a-large-volume-of-simple-problems-in-an-open-source-project/)
   - 🕸️ I'm also working on helping to add endpoints.
 - I'm also working on [making some tools to help my fellow GitHub Enterprise administrators](https://github.com/manchicken/gh-enterprise-tools/)
-- I'm also maintaining a small handful of custom GitHub Actions
+- I used to maintain the Datadog Service Catalog Metadata Provider
   - [Datadog Service Catalog Metadata Provider](https://github.com/arcxp/datadog-service-catalog-metadata-provider)
 
 Also, don't forget to check out my [GitHub Resume!](https://resume.github.io/?manchicken)
@@ -34,7 +34,6 @@ Here are a few of my favorite pieces:
 
 ### Stuff I'm working on
 
-- I'm working on the Datadog Service Catalog Metadata Provider (DDSCMP) which can be found here: https://github.com/arcxp/datadog-service-catalog-metadata-provider
 - I'm working on a project called "repository-wrapup" which is intended to help you find and address abandoned code repositories on GitHub.
 - I do a little bit of security research, too.
 
@@ -43,6 +42,3 @@ Here are a few of my favorite pieces:
 - I could use a hand with documetation for my `@manchicken/promise-regulation` module. You can find that here: https://github.com/manchicken/promise-regulation
   - Documentation is really needed
   - If you can think of some tests I didn't think of, that'd be marvelous
-- If you're a user of the DDSCMP, and you'd like to participate, you can also contribute here: https://github.com/arcxp/datadog-service-catalog-metadata-provider
-  - Take a look a the issues list
-  - There is a _lot_ of documentation for this project, there are bound to be mistakes. I welcome all PRs correcting those mistakes.
