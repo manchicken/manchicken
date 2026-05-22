@@ -2,7 +2,9 @@
 
 ## Hi there 👋
 
-Hi! I'm Mike Stemle (he/him), and I enjoy reading and writing code. I'm a security and software professional with more nearly 28 years of professional programming experience. I'm an open source expert and hacker with a love for community, technology, and what we can do when we work together.
+Hi! I'm manchicken (he/him), and I enjoy reading and writing code. I'm a security and software professional with more nearly 28 years of professional programming experience. I'm an open source expert and hacker with a love for community, technology, and what we can do when we work together.
+
+[I strongly encourage you to visit my Codeberg, as I've been moving away from the security holes and AI slop plaguing GitHub.](https://codeberg.org/manchicken)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/manchicken/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
